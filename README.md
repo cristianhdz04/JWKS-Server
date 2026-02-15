@@ -1,6 +1,7 @@
 # JWKS Server – Project 1
 
 Cristian Hernandez
+EUID: ch0928
 CSCE 3550 – Spring 2026
 
 ## Overview
@@ -92,4 +93,13 @@ CyberP1/
 |-- requirements.txt
 |-- README.md
 |-- .gitignore
+```
+
+## Linting
+
+Code has been formatted with `black` and linted with `pylint`.
+Check code quality:
+```powershell
+pylint app/
+black --check app/
 ```
