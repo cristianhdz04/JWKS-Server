@@ -78,7 +78,7 @@ This tests the server automatically.
 ## Project Structure
 
 ```
-CyberP1/
+JWKS-Server/
 |- app/
 |   |-- keys.py
 |   |-- main.py
