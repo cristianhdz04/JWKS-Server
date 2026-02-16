@@ -87,8 +87,10 @@ JWKS-Server/
 |   |-- test_auth.py
 |   |-- test_jwks.py
 |- screenshots/
-|   |-- blackbox.png
-|   |-- coverage.png
+|   |-- BLACKBOX_TEST_CH0928.png
+|   |-- CURL_TEST_CH0928.png
+|   |-- PYTEST_RESULTS_CH0928.png
+|   |-- SERVER_RUNNING_CH0928.png
 |-- gradebox.exe
 |-- requirements.txt
 |-- README.md
