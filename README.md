@@ -114,8 +114,8 @@ JWKS-Server/
 |   |-- test_auth.py
 |   |-- test_jwks.py
 |- screenshots/
-|   |-- GRADEBOT_RESULTS_CH0928.png
-|   |-- TEST_COVERAGE_CH0928.png
+|   |-- BLACKBOX_TEST_CH0928.png
+|   |-- PYTEST_RESULTS_CH0928.png
 |- totally_not_my_privateKeys.db
 |-- gradebot
 |-- requirements.txt
